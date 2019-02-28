@@ -1,0 +1,12 @@
+SMBIOS 2.5 present.
+
+Handle 0x0030, DMI type 1, 27 bytes
+System Information
+	Manufacturer: IBM
+	Product Name: System x3650 M3 -[7945O4R]-
+	Version: 00
+	Serial Number: 99AN578
+	UUID: EDB17CB0-9B88-11E0-AB80-E41F13BC4FFC
+	Wake-up Type: Power Switch
+	SKU Number: XxXxXxX
+	Family: System x
